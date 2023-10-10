@@ -35,6 +35,17 @@
           <tbody>
 
           <tr class="hover">
+            <th>HW6</th>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+          </tr>
+
+          <tr class="hover">
             <th>HW5</th>
             <td><CheckCircleIcon class="h-6 w-6 mx-auto text-success"/></td>
             <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
