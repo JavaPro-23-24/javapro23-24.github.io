@@ -38,7 +38,7 @@
             <th>HW5</th>
             <td><CheckCircleIcon class="h-6 w-6 mx-auto text-success"/></td>
             <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
-            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+            <td><CheckCircleIcon class="h-6 w-6 mx-auto text-success"/></td>
             <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
             <td><CheckCircleIcon class="h-6 w-6 mx-auto text-success"/></td>
             <td><ChatBubbleOvalLeftEllipsisIcon class="h-6 w-6 mx-auto text-warning" /></td>
@@ -51,7 +51,7 @@
             <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
             <td><ChatBubbleOvalLeftEllipsisIcon class="h-6 w-6 mx-auto text-warning" /></td>
             <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
-            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+            <td><CheckCircleIcon class="h-6 w-6 mx-auto text-success"/></td>
             <td><ChatBubbleOvalLeftEllipsisIcon class="h-6 w-6 mx-auto text-warning" /></td>
             <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
           </tr>
