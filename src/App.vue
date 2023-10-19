@@ -35,7 +35,7 @@
           <tbody>
 
           <tr class="hover">
-            <th>HW6</th>
+            <th>HW9</th>
             <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
             <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
             <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
@@ -46,13 +46,46 @@
           </tr>
 
           <tr class="hover">
+            <th>SP1</th>
+            <td><div class="badge badge-success"> 350 </div></td>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+            <td><div class="badge badge-success"> 200 </div></td>
+            <td><div class="badge badge-success"> 125 </div></td>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+          </tr>
+
+          <tr class="hover">
+            <th>HW7</th>
+            <td><CheckCircleIcon class="h-6 w-6 mx-auto text-success"/></td>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+            <td><ChatBubbleOvalLeftEllipsisIcon class="h-6 w-6 mx-auto text-warning" /></td>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+          </tr>
+
+          <tr class="hover">
+            <th>HW6</th>
+            <td><CheckCircleIcon class="h-6 w-6 mx-auto text-success"/></td>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+            <td><ChatBubbleOvalLeftEllipsisIcon class="h-6 w-6 mx-auto text-warning" /></td>
+            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+          </tr>
+
+          <tr class="hover">
             <th>HW5</th>
             <td><CheckCircleIcon class="h-6 w-6 mx-auto text-success"/></td>
             <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
             <td><CheckCircleIcon class="h-6 w-6 mx-auto text-success"/></td>
             <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
             <td><CheckCircleIcon class="h-6 w-6 mx-auto text-success"/></td>
-            <td><ChatBubbleOvalLeftEllipsisIcon class="h-6 w-6 mx-auto text-warning" /></td>
+            <td><CheckCircleIcon class="h-6 w-6 mx-auto text-success"/></td>
             <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
           </tr>
 
@@ -85,7 +118,7 @@
             <td><CheckCircleIcon class="h-6 w-6 mx-auto text-success"/></td>
             <td><CheckCircleIcon class="h-6 w-6 mx-auto text-success"/></td>
             <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
-            <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
+            <td><CheckCircleIcon class="h-6 w-6 mx-auto text-success"/></td>
             <td><XCircleIcon class="h-6 w-6 mx-auto text-error" /></td>
           </tr>
 
